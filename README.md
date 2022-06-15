@@ -2,6 +2,6 @@
 
 #Pratice designs
 
-#Design Ideas Credit : https://www.instagram.com/uiux_design_gallery/
+#Design Ideas Credit : BEHANCE, DRIBBBLE AND INSTAGRAM
 
 #Software Used : FIGMA
